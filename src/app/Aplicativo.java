@@ -62,6 +62,8 @@ public class Aplicativo {
                 } else {
                     pedido.add(pedidoCliente);
                     System.out.println(pedidoCliente.getNome() + " Adicionado ao pedido!");
+
+
                 }
             }
             case 2 -> System.out.println("Até a proxima!");
